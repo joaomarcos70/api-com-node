@@ -1,0 +1,24 @@
+{
+  "name": "api-com-node",
+  "version": "1.0.0",
+  "description": "api-com-node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaomarcos70/api-com-node.git"
+  },
+  "keywords": [],
+  "author": "john albuquerque",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joaomarcos70/api-com-node/issues"
+  },
+  "homepage": "https://github.com/joaomarcos70/api-com-node#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
