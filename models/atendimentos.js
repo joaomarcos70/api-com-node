@@ -69,7 +69,7 @@ class Atendimento {
     });
   }
 
-  altera(id, valores, res) {
+  altera(id, valores, res) { 
     if (valores.data) {
       valores.data = moment(valores.data, "DD/MM/YYYY").format(
         "YYYY-MM-DD HH:MM:SS"
