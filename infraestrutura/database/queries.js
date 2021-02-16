@@ -11,3 +11,6 @@ const executaQuery = (query, parametros = "") => {
     });
   });
 };
+
+
+module.exports = executaQuery
